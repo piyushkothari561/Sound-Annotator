@@ -1,3 +1,8 @@
+YOUTUBE LINK:
+
+https://youtu.be/JYyTtyBnZKc
+
+
 Introduction:
 
 Sound architects need to get to immense assortments of sound eﬀects for their ﬁlm and video creations. Sound eﬀects suppliers depend on text-recovery methods to oﬀer their assortments. Annotation of sound substance was done physically, which was a very difficult task. Programmed explanation strategies, ordinarily ﬁne-tuned to reduced areas, for example, instruments or diminished sound effects scientific classifications, are not adult enough for naming with great detail any conceivable sound. An overall sound acknowledgment instrument would require a) A scientific categorization that addresses the world and, b) Thousands of classiﬁers, each worked in distinctive minimal details. In this assignment a sound annotator is created to merge two separate audio files which are 1. Voice commentary and 2. Audio of a football match. The task is to mix the commentary to the specific part of the football match audio so that one can hear both the match and the commentary, and the user would be eventually able to export the merged audio file. All this feature would be possible with a user-friendly interface which supports interactions with the software functions like playing, pausing, stopping, merging, and exporting the merged audio.
